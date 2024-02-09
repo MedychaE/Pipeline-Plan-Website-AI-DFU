@@ -4,4 +4,4 @@ Pipeline perancangan website berbasis artificial intelligence untuk deteksi dini
 3. Perancangan model artificial intelligence (deep learning)
 4. Pelatihan model
 5. Pengujian model
-6. Evaluasi model
+6. Deployment model
