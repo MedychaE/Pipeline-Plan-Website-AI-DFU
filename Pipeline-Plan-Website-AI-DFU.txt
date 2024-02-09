@@ -2,3 +2,6 @@ Pipeline perancangan website berbasis artificial intelligence untuk deteksi dini
 1. Pengumpulan data berupa citra termogram
 2. Preprocessing data
 3. Perancangan model artificial intelligence (deep learning)
+4. Pelatihan model
+5. Pengujian model
+6. Evaluasi model
